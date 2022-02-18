@@ -29,7 +29,7 @@ print("Total Words:",len(words))
 
 ### OUTPUT:
 
-
+![output](./output.jpeg)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
